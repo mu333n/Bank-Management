@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675159273 source:e:\coading\projects\bank management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
